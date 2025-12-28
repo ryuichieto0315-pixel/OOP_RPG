@@ -1,6 +1,0 @@
-﻿Action,Target,Kind,TakeHp,UseMp
-メラ,敵方,Magic,50,10
-ホイミ,味方,Magic,30,10
-ヴェレ,敵方,Magic,0,20
-ラリホー,敵方,Magic,0,20
-戻る,戻る,戻る,0,10000
